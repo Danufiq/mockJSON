@@ -1,7 +1,5 @@
 {
- "code" : "00",
- "status" : "Success",
- "data" : [
+ "Users" : [
    {
       "name" : "Solikin Raharjo",
       "username" : "solikin",
