@@ -1,26 +1,26 @@
 {
- code : "00",
- status : "Success",
- data : [
+ "code" : "00",
+ "status" : "Success",
+ "data" : [
    {
-      name : "Solikin Raharjo",
-      username : "solikin",
-      password : "123456",
+      "name" : "Solikin Raharjo",
+      "username" : "solikin",
+      "password" : "123456",
    },
    {
-      name : "Dany Suloyo",
-      username : "dany",
-      password : "123dany",
+      "name" : "Dany Suloyo",
+      "username" : "dany",
+      "password" : "123dany",
    },
    {
-      name : "Sumiyah",
-      username : "sumi",
-      password : "sumiyah12",
+      "name" : "Sumiyah",
+      "username" : "sumi",
+      "password" : "sumiyah12",
    },
    {
-      name : "Sunarto",
-      username : "narto",
-      password : "nartoJaya",
+      "name" : "Sunarto",
+      "username" : "narto",
+      "password" : "nartoJaya",
    },
  ]
 }
