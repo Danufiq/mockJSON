@@ -3,22 +3,22 @@
    {
       "name" : "Solikin Raharjo",
       "username" : "solikin",
-      "password" : "123456",
+      "password" : "123456"
    },
    {
       "name" : "Dany Suloyo",
       "username" : "dany",
-      "password" : "123dany",
+      "password" : "123dany"
    },
    {
       "name" : "Sumiyah",
       "username" : "sumi",
-      "password" : "sumiyah12",
+      "password" : "sumiyah12"
    },
    {
       "name" : "Sunarto",
       "username" : "narto",
-      "password" : "nartoJaya",
-   },
+      "password" : "nartoJaya"
+   }
  ]
 }
