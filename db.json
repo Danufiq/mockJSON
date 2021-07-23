@@ -5,8 +5,10 @@
       "username" : "solikin",
       "password" : "123456"
    },
- ],
- "DOF": [
-  {},
+  {
+      "name" : "Solikin Raharjo",
+      "username" : "solikin",
+      "password" : "123456"
+   },
  ],
 }
